@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236794736607",
+    "project_id": "collegetaxi-ef39a",
+    "storage_bucket": "collegetaxi-ef39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236794736607:android:e937ba3e882208530b1e6a",
+        "android_client_info": {
+          "package_name": "com.example.projecty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236794736607-9nrrjp715b4cr49pcete3vbgei11jljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMilD-YAvQbyk6vghN1x_C3xiDXDoahp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236794736607-9nrrjp715b4cr49pcete3vbgei11jljc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
